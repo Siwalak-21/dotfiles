@@ -84,4 +84,14 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "chat.instructionsFilesLocations": {
+      ".github/instructions": true,
+      "/var/folders/dh/8tfcfcxd6r3frf32vr0qxjww0000gn/T/postman-collections-post-response.instructions.md": true,
+      "/var/folders/dh/8tfcfcxd6r3frf32vr0qxjww0000gn/T/postman-collections-pre-request.instructions.md": true,
+      "/var/folders/dh/8tfcfcxd6r3frf32vr0qxjww0000gn/T/postman-folder-post-response.instructions.md": true,
+      "/var/folders/dh/8tfcfcxd6r3frf32vr0qxjww0000gn/T/postman-folder-pre-request.instructions.md": true,
+      "/var/folders/dh/8tfcfcxd6r3frf32vr0qxjww0000gn/T/postman-http-request-post-response.instructions.md": true,
+      "/var/folders/dh/8tfcfcxd6r3frf32vr0qxjww0000gn/T/postman-http-request-pre-request.instructions.md": true
+    },
+    "geminicodeassist.project": "sinuous-period-bvmxc",
 }
